@@ -142,3 +142,4 @@ if 'fortune_type' in st.session_state:
     # Streamlit에서 직접 클립보드 복사 기능은 구현이 복잡하므로,
     # 사용자에게 URL 복사를 안내하는 것이 가장 간단하고 안정적인 방법입니다.
     st.info("💡 이 결과를 친구와 공유하고 싶으신가요? 브라우저의 주소창을 복사하여 공유해주세요!")
+#jiyunpoop
